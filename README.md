@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to Chenxing(Aristo)'s Page
 
-You can use the [editor on GitHub](https://github.com/AristoQian/AristoQian.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Chenxing(Aristo) Qian's personal collections of research tools & knowledge related to statistics, optimization, computational biology
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You can visit this site but please remember, all content this site is temporally for my personal sake.
 
 ### Markdown
 
