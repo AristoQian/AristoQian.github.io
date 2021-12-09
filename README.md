@@ -1,2 +1,2 @@
 # AristoQian.github.io
-Chenxing(Aristo) Qian's collections of research tools &amp; some statistical theory and applications
+Chenxing(Aristo) Qian's collections of scRNA-seq(Single-cell RNA sequencing) programming scripts
