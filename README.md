@@ -10,8 +10,10 @@ Currently the page will cover:
 1. **scRNA-seq** statistical models;
 2. Programming of **scRNA-seq data processing**
 3. **Bulk-seq data processing**
-**4. Notes and Summary of statistical theory, measure theory, real analysis and distribution theory** 
+4. **Notes and Summary of statistical theory, measure theory, real analysis and distribution theory**
+
 ### The sentences below are directly from the template and you can forget all of them
+**----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------**
 # Header 1
 ## Header 2
 ### Header 3
