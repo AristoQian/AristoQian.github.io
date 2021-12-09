@@ -4,16 +4,21 @@ Chenxing(Aristo) Qian's personal collections of research tools & knowledge relat
 
 You can visit this site but please remember, all content this site is temporally for my personal sake.
 
-### Markdown
+### Content
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
+Currently the page will cover:
+1. **scRNA-seq** statistical models;
+2. Programming of **scRNA-seq data processing**
+3. **Bulk-seq data processing**
+**4. Notes and Summary of statistical theory, measure theory, real analysis and distribution theory** 
+### The sentences below are directly from the template and you can forget all of them
 # Header 1
 ## Header 2
 ### Header 3
+```markdown
+Syntax highlighted code block
+
+
 
 - Bulleted
 - List
